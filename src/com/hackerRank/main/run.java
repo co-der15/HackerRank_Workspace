@@ -12,7 +12,7 @@ public class run {
         // new LoopII().method1();
         // new DataType().method1();
         // new EOF().method1();
-        new EOF().method2();
+        // new EOF().method2();
 
     }
 }
